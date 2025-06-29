@@ -1,0 +1,258 @@
+name,qu_unit_name,qu_amount,location_name,product_group_name
+Eau minérale,Bouteille,1.5,Placard de la cuisine,Boissons
+Eau gazeuse,Bouteille,1,Placard de la cuisine,Boissons
+Eau de source,Bouteille,1,Placard de la cuisine,Boissons
+Lait demi-écrémé,Litre,1,Frigo,Boissons
+Lait entier,Litre,1,Frigo,Boissons
+Lait écrémé,Litre,1,Frigo,Boissons
+Jus d'orange,Litre,1,Frigo,Boissons
+Jus de pomme,Litre,1,Frigo,Boissons
+Jus de raisin,Litre,1,Frigo,Boissons
+Jus de tomate,Litre,0.5,Frigo,Boissons
+Soda cola,Canette,0.33,Placard de la cuisine,Boissons
+Soda orange,Canette,0.33,Placard de la cuisine,Boissons
+Limonade,Bouteille,1,Placard de la cuisine,Boissons
+Bière blonde,Canette,0.33,Frigo,Boissons
+Bière brune,Canette,0.33,Frigo,Boissons
+Vin rouge,Bouteille,0.75,Cave/Sous-sol,Boissons
+Vin blanc,Bouteille,0.75,Cave/Sous-sol,Boissons
+Vin rosé,Bouteille,0.75,Cave/Sous-sol,Boissons
+Champagne,Bouteille,0.75,Cave/Sous-sol,Boissons
+Sirop de grenadine,Bouteille,0.5,Placard de la cuisine,Boissons
+Sirop de menthe,Bouteille,0.5,Placard de la cuisine,Boissons
+Café moulu,Paquet,250,Placard de la cuisine,Boissons
+Café en grains,Paquet,500,Placard de la cuisine,Boissons
+Café soluble,Pot,100,Placard de la cuisine,Boissons
+Thé noir en sachet,Boîte,25,Placard de la cuisine,Boissons
+Thé vert en sachet,Boîte,25,Placard de la cuisine,Boissons
+Thé aux fruits,Boîte,20,Placard de la cuisine,Boissons
+Tisane camomille,Boîte,20,Placard de la cuisine,Boissons
+Chocolat chaud en poudre,Pot,400,Placard de la cuisine,Boissons
+Chocolat noir 70%,Tablette,100,Placard de la cuisine,Confiserie
+Chocolat au lait,Tablette,100,Placard de la cuisine,Confiserie
+Chocolat blanc,Tablette,100,Placard de la cuisine,Confiserie
+Caramels mous,Paquet,200,Placard de la cuisine,Confiserie
+Bonbons gélifiés,Paquet,150,Placard de la cuisine,Confiserie
+Pâte à tartiner chocolat-noisette,Pot,400,Placard de la cuisine,Confiserie
+Barres chocolatées,Pièce,45,Placard de la cuisine,Confiserie
+Cacao en poudre non sucré,Boîte,250,Placard de la cuisine,Confiserie
+Miel,Pot,250,Placard de la cuisine,Confiserie
+Confiture de fraises,Pot,320,Placard de la cuisine,Confiserie
+Confiture d'abricots,Pot,320,Placard de la cuisine,Confiserie
+Gelée de groseilles,Pot,320,Placard de la cuisine,Confiserie
+Maïs doux,Boîte,285,Placard de la cuisine,Conserves
+Haricots rouges,Boîte,400,Placard de la cuisine,Conserves
+Haricots verts,Boîte,440,Placard de la cuisine,Conserves
+Petits pois,Boîte,265,Placard de la cuisine,Conserves
+Tomates pelées,Boîte,400,Placard de la cuisine,Conserves
+Tomates concassées,Boîte,400,Placard de la cuisine,Conserves
+Concentré de tomate,Tube,140,Placard de la cuisine,Conserves
+Thon au naturel,Boîte,160,Placard de la cuisine,Conserves
+Thon à l'huile,Boîte,160,Placard de la cuisine,Conserves
+Sardines à l'huile,Boîte,120,Placard de la cuisine,Conserves
+Saumon en conserve,Boîte,160,Placard de la cuisine,Conserves
+Champignons de Paris,Boîte,230,Placard de la cuisine,Conserves
+Cœurs d'artichauts,Boîte,240,Placard de la cuisine,Conserves
+Pois chiches,Boîte,400,Placard de la cuisine,Conserves
+Lentilles,Boîte,400,Placard de la cuisine,Conserves
+Sauce tomate basilic,Bocal,400,Placard de la cuisine,Conserves
+Ratatouille,Boîte,375,Placard de la cuisine,Conserves
+Cassoulet,Boîte,840,Placard de la cuisine,Conserves
+Choucroute,Boîte,500,Placard de la cuisine,Conserves
+Cornichons,Bocal,220,Placard de la cuisine,Conserves
+Olives vertes,Bocal,160,Placard de la cuisine,Conserves
+Olives noires,Bocal,160,Placard de la cuisine,Conserves
+Tomates cerises,Barquette,250,Frigo,Fruits et Légumes
+Tomates grappe,Kilogramme,1,Frigo,Fruits et Légumes
+Carottes,Kilogramme,1,Frigo,Fruits et Légumes
+Pommes Golden,Kilogramme,1,Frigo,Fruits et Légumes
+Pommes Granny Smith,Kilogramme,1,Frigo,Fruits et Légumes
+Poires,Kilogramme,1,Frigo,Fruits et Légumes
+Bananes,Kilogramme,1,Comptoir cuisine,Fruits et Légumes
+Oranges,Kilogramme,1,Frigo,Fruits et Légumes
+Citrons jaunes,Pièce,1,Frigo,Fruits et Légumes
+Citrons verts,Pièce,1,Frigo,Fruits et Légumes
+Pamplemousse,Pièce,1,Frigo,Fruits et Légumes
+Kiwis,Pièce,1,Frigo,Fruits et Légumes
+Mangue,Pièce,1,Frigo,Fruits et Légumes
+Ananas,Pièce,1,Comptoir cuisine,Fruits et Légumes
+Raisin blanc,Kilogramme,1,Frigo,Fruits et Légumes
+Raisin noir,Kilogramme,1,Frigo,Fruits et Légumes
+Fraises,Barquette,250,Frigo,Fruits et Légumes
+Framboises,Barquette,125,Frigo,Fruits et Légumes
+Myrtilles,Barquette,125,Frigo,Fruits et Légumes
+Oignons jaunes,Kilogramme,1,Cellier,Fruits et Légumes
+Oignons rouges,Kilogramme,0.5,Cellier,Fruits et Légumes
+Échalotes,Kilogramme,0.5,Cellier,Fruits et Légumes
+Ail,Tête,1,Cellier,Fruits et Légumes
+Persil plat,Botte,1,Frigo,Fruits et Légumes
+Persil frisé,Botte,1,Frigo,Fruits et Légumes
+Ciboulette,Pot,1,Frigo,Fruits et Légumes
+Basilic,Pot,1,Frigo,Fruits et Légumes
+Coriandre,Botte,1,Frigo,Fruits et Légumes
+Courgettes,Kilogramme,1,Frigo,Fruits et Légumes
+Aubergines,Kilogramme,1,Frigo,Fruits et Légumes
+Poivrons rouges,Kilogramme,1,Frigo,Fruits et Légumes
+Poivrons verts,Kilogramme,1,Frigo,Fruits et Légumes
+Poivrons jaunes,Kilogramme,1,Frigo,Fruits et Légumes
+Concombre,Pièce,1,Frigo,Fruits et Légumes
+Radis,Botte,1,Frigo,Fruits et Légumes
+Salade iceberg,Pièce,1,Frigo,Fruits et Légumes
+Salade batavia,Pièce,1,Frigo,Fruits et Légumes
+Roquette,Sachet,100,Frigo,Fruits et Légumes
+Épinards frais,Sachet,200,Frigo,Fruits et Légumes
+Mâche,Sachet,100,Frigo,Fruits et Légumes
+Pommes de terre nouvelles,Kilogramme,2,Cellier,Fruits et Légumes
+Pommes de terre Charlotte,Kilogramme,2,Cellier,Fruits et Légumes
+Patates douces,Kilogramme,1,Cellier,Fruits et Légumes
+Avocat,Pièce,1,Frigo,Fruits et Légumes
+Champignons de Paris frais,Barquette,250,Frigo,Fruits et Légumes
+Champignons shiitaké,Barquette,150,Frigo,Fruits et Légumes
+Brocolis,Pièce,1,Frigo,Fruits et Légumes
+Chou-fleur,Pièce,1,Frigo,Fruits et Légumes
+Choux de Bruxelles,Kilogramme,0.5,Frigo,Fruits et Légumes
+Poireaux,Kilogramme,1,Frigo,Fruits et Légumes
+Céleri branche,Pièce,1,Frigo,Fruits et Légumes
+Fenouil,Pièce,1,Frigo,Fruits et Légumes
+Steak de bœuf,Pièce,150,Frigo,Viandes
+Côte de bœuf,Kilogramme,1.2,Frigo,Viandes
+Rôti de bœuf,Kilogramme,1,Frigo,Viandes
+Escalope de veau,Pièce,120,Frigo,Viandes
+Blanquette de veau,Kilogramme,0.8,Frigo,Viandes
+Côtelettes d'agneau,Pièce,100,Frigo,Viandes
+Gigot d'agneau,Kilogramme,2,Frigo,Viandes
+Escalope de porc,Pièce,130,Frigo,Viandes
+Côtes de porc,Pièce,150,Frigo,Viandes
+Rôti de porc,Kilogramme,1.2,Frigo,Viandes
+Escalope de dinde,Pièce,120,Frigo,Viandes
+Blanc de poulet,Pièce,150,Frigo,Viandes
+Cuisse de poulet,Pièce,200,Frigo,Viandes
+Poulet entier,Pièce,1.5,Frigo,Viandes
+Magret de canard,Pièce,300,Frigo,Viandes
+Saucisses de Toulouse,Pièce,80,Frigo,Viandes
+Saucisses de Strasbourg,Pièce,50,Frigo,Viandes
+Merguez,Pièce,60,Frigo,Viandes
+Chorizo,Gramme,100,Frigo,Viandes
+Lardons fumés,Paquet,200,Frigo,Viandes
+Bacon,Paquet,120,Frigo,Viandes
+Viande hachée 5%,Barquette,400,Congélateur,Viandes
+Viande hachée 15%,Barquette,400,Congélateur,Viandes
+Jambon blanc,Tranches,150,Frigo,Viandes
+Jambon de Bayonne,Tranches,100,Frigo,Viandes
+Rillettes de porc,Pot,180,Frigo,Viandes
+Pâté de campagne,Tranches,120,Frigo,Viandes
+Foie de veau,Tranches,150,Frigo,Viandes
+Boudin noir,Pièce,120,Frigo,Viandes
+Andouillette,Pièce,150,Frigo,Viandes
+Saumon frais,Filet,200,Frigo,Poissons
+Cabillaud,Filet,180,Frigo,Poissons
+Sole,Pièce,300,Frigo,Poissons
+Dorade,Pièce,400,Frigo,Poissons
+Truite,Pièce,250,Frigo,Poissons
+Crevettes roses,Gramme,200,Frigo,Poissons
+Moules,Kilogramme,1,Frigo,Poissons
+Huîtres,Douzaine,12,Frigo,Poissons
+Saint-Jacques,Pièce,25,Frigo,Poissons
+Calmars,Gramme,300,Frigo,Poissons
+Pain de mie complet,Paquet,500,Placard de la cuisine,Boulangerie
+Pain de mie blanc,Paquet,500,Placard de la cuisine,Boulangerie
+Baguette tradition,Pièce,250,Comptoir cuisine,Boulangerie
+Pain complet,Pièce,400,Comptoir cuisine,Boulangerie
+Pain de seigle,Pièce,400,Comptoir cuisine,Boulangerie
+Pain aux céréales,Pièce,400,Comptoir cuisine,Boulangerie
+Croissants,Pièce,60,Comptoir cuisine,Boulangerie
+Pain au chocolat,Pièce,70,Comptoir cuisine,Boulangerie
+Brioche,Pièce,300,Comptoir cuisine,Boulangerie
+Pâte feuilletée,Rouleau,230,Frigo,Boulangerie
+Pâte brisée,Rouleau,230,Frigo,Boulangerie
+Pâte sablée,Rouleau,240,Frigo,Boulangerie
+Pâte à pizza,Rouleau,260,Frigo,Boulangerie
+Biscottes complètes,Paquet,300,Placard de la cuisine,Boulangerie
+Crackers,Paquet,200,Placard de la cuisine,Boulangerie
+Œufs de poule (boîte de 6),Pièce,6,Frigo,Produits frais
+Œufs de caille (boîte de 12),Pièce,12,Frigo,Produits frais
+Beurre doux,Plaquette,250,Frigo,Produits frais
+Beurre demi-sel,Plaquette,250,Frigo,Produits frais
+Margarine,Barquette,250,Frigo,Produits frais
+Crème fraîche épaisse,Pot,200,Frigo,Produits frais
+Crème liquide,Brique,200,Frigo,Produits frais
+Crème anglaise,Pot,500,Frigo,Produits frais
+Fromage râpé gruyère,Sachet,200,Frigo,Produits frais
+Fromage râpé emmental,Sachet,200,Frigo,Produits frais
+Parmesan,Morceau,200,Frigo,Produits frais
+Yaourt nature,Pot,125,Frigo,Produits frais
+Yaourt aux fruits,Pot,125,Frigo,Produits frais
+Yaourt grec,Pot,150,Frigo,Produits frais
+Fromage blanc,Pot,500,Frigo,Produits frais
+Petit-suisse,Pot,60,Frigo,Produits frais
+Mozzarella,Boule,125,Frigo,Produits frais
+Camembert,Pièce,250,Frigo,Produits frais
+Brie,Portion,200,Frigo,Produits frais
+Roquefort,Portion,100,Frigo,Produits frais
+Chèvre frais,Crottin,100,Frigo,Produits frais
+Comté,Portion,200,Frigo,Produits frais
+Gouda,Portion,200,Frigo,Produits frais
+Tofu nature,Bloc,200,Frigo,Produits frais
+Tofu fumé,Bloc,200,Frigo,Produits frais
+Lait de soja,Brique,1,Frigo,Produits frais
+Lait d'amande,Brique,1,Frigo,Produits frais
+Lait d'avoine,Brique,1,Frigo,Produits frais
+Riz basmati,Paquet,1000,Placard de la cuisine,Épicerie sèche
+Riz rond,Paquet,1000,Placard de la cuisine,Épicerie sèche
+Riz complet,Paquet,1000,Placard de la cuisine,Épicerie sèche
+Quinoa,Paquet,500,Placard de la cuisine,Épicerie sèche
+Boulgour,Paquet,500,Placard de la cuisine,Épicerie sèche
+Semoule,Paquet,500,Placard de la cuisine,Épicerie sèche
+Pâtes spaghetti,Paquet,500,Placard de la cuisine,Épicerie sèche
+Pâtes penne,Paquet,500,Placard de la cuisine,Épicerie sèche
+Pâtes farfalle,Paquet,500,Placard de la cuisine,Épicerie sèche
+Pâtes lasagne,Paquet,500,Placard de la cuisine,Épicerie sèche
+Pâtes ravioli,Paquet,250,Frigo,Épicerie sèche
+Lentilles vertes sèches,Paquet,500,Placard de la cuisine,Épicerie sèche
+Lentilles corail sèches,Paquet,500,Placard de la cuisine,Épicerie sèche
+Haricots blancs secs,Paquet,500,Placard de la cuisine,Épicerie sèche
+Pois cassés,Paquet,500,Placard de la cuisine,Épicerie sèche
+Farine T45,Paquet,1000,Placard de la cuisine,Épicerie sèche
+Farine complète,Paquet,1000,Placard de la cuisine,Épicerie sèche
+Sucre blanc,Paquet,1000,Placard de la cuisine,Épicerie sèche
+Sucre roux,Paquet,500,Placard de la cuisine,Épicerie sèche
+Sucre glace,Paquet,250,Placard de la cuisine,Épicerie sèche
+Sel fin,Paquet,1000,Placard de la cuisine,Épicerie sèche
+Gros sel,Paquet,1000,Placard de la cuisine,Épicerie sèche
+Poivre noir moulu,Moulin,40,Placard de la cuisine,Épicerie sèche
+Poivre en grains,Moulin,50,Placard de la cuisine,Épicerie sèche
+Paprika,Pot,50,Placard de la cuisine,Épicerie sèche
+Cumin,Pot,40,Placard de la cuisine,Épicerie sèche
+Curcuma,Pot,40,Placard de la cuisine,Épicerie sèche
+Curry,Pot,50,Placard de la cuisine,Épicerie sèche
+Herbes de Provence,Pot,30,Placard de la cuisine,Épicerie sèche
+Thym,Pot,15,Placard de la cuisine,Épicerie sèche
+Romarin,Pot,15,Placard de la cuisine,Épicerie sèche
+Laurier,Pot,10,Placard de la cuisine,Épicerie sèche
+Muscade,Pot,20,Placard de la cuisine,Épicerie sèche
+Cannelle,Pot,25,Placard de la cuisine,Épicerie sèche
+Vanille liquide,Flacon,20,Placard de la cuisine,Épicerie sèche
+Levure chimique,Paquet,60,Placard de la cuisine,Épicerie sèche
+Bicarbonate,Paquet,200,Placard de la cuisine,Épicerie sèche
+Huile d'olive,Bouteille,500,Placard de la cuisine,Épicerie sèche
+Huile de tournesol,Bouteille,1000,Placard de la cuisine,Épicerie sèche
+Huile de colza,Bouteille,500,Placard de la cuisine,Épicerie sèche
+Vinaigre blanc,Bouteille,500,Placard de la cuisine,Épicerie sèche
+Vinaigre de vin,Bouteille,250,Placard de la cuisine,Épicerie sèche
+Vinaigre balsamique,Bouteille,250,Placard de la cuisine,Épicerie sèche
+Moutarde de Dijon,Pot,200,Placard de la cuisine,Épicerie sèche
+Moutarde à l'ancienne,Pot,200,Placard de la cuisine,Épicerie sèche
+Ketchup,Flacon,300,Placard de la cuisine,Épicerie sèche
+Mayonnaise,Tube,175,Frigo,Épicerie sèche
+Pâtes de surgelés,Sachet,1000,Congélateur,Surgelés
+Légumes mélangés surgelés,Sachet,1000,Congélateur,Surgelés
+Épinards hachés surgelés,Sachet,450,Congélateur,Surgelés
+Haricots verts surgelés,Sachet,1000,Congélateur,Surgelés
+Petits pois surgelés,Sachet,600,Congélateur,Surgelés
+Frites surgelées,Sachet,1000,Congélateur,Surgelés
+Poisson pané surgelé,Boîte,400,Congélateur,Surgelés
+Crevettes surgelées,Sachet,500,Congélateur,Surgelés
+Pizza surgelée,Pièce,400,Congélateur,Surgelés
+Glace vanille,Bac,500,Congélateur,Surgelés
+Glace chocolat,Bac,500,Congélateur,Surgelés
+Sorbets fruits,Bac,500,Congélateur,Surgelés
